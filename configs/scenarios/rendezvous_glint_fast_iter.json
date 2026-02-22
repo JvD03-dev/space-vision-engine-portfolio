@@ -1,0 +1,39 @@
+{
+  "name": "rendezvous_glint_fast_iter",
+  "camera": {
+    "lens_mm": 60.0,
+    "exposure_scale": 1.0,
+    "track_horizon_lock": true
+  },
+  "sun": {
+    "angle_deg": 0.53
+  },
+  "earth": {
+    "radius": 6371000.0,
+    "axial_tilt_deg": 23.44,
+    "rotation_deg_per_frame": 0.02
+  },
+  "target": {
+    "radius": 1.2
+  },
+  "dynamics": {
+    "mu_earth": 3.986004418e14,
+    "orbit_radius": 6771000.0,
+    "orbit_period_frames": 240,
+    "orbit_inclination_deg": 51.6,
+    "orbit_raan_deg": 25.0,
+    "orbit_phase_deg": 0.0,
+    "camera_trailing_distance": 35.0,
+    "camera_radial_offset": 8.0,
+    "camera_normal_offset": 6.0,
+    "anchor": "earth",
+    "render_m_per_unit": 100000.0,
+    "sun_direction": [1.0, 0.22, 0.12],
+    "sun_dynamic": true,
+    "sun_annual_period_s": 31557600.0,
+    "sun_angular_diameter_deg": 0.53,
+    "enable_eclipse": true,
+    "ambient_floor": 0.04,
+    "show_sun_marker": false
+  }
+}
