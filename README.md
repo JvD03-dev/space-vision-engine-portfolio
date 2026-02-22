@@ -1,4 +1,4 @@
-# Space Vision Engine (C++ Portfolio v0.1)
+# Space Vision Engine
 
 Real-time Win32 + OpenGL prototype for Earth-orbit visualization and camera/perception iteration.
 
@@ -9,7 +9,11 @@ This public portfolio snapshot includes:
 - Free camera and satellite-track camera modes
 - JSON scenario configuration and runtime controls
 
-This repository intentionally excludes private research/mining pipeline code and Blender tooling.
+
+
+
+![alt text](https://github.com/JvD03-dev/space-vision-engine-portfolio/blob/main/Screenshot%202026-02-22%20212316.png)
+
 
 ## Platform
 
